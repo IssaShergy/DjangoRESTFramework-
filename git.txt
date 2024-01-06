@@ -1,4 +1,7 @@
 use git 
+#add user :
+git config --global user.name "issashergy"
+git config --global user.email "shergy123.im@gmail.com"
 git remote add origin https://github.com/OWNER/REPOSITORY.git
 
 git init
